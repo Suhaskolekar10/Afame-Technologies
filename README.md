@@ -2,7 +2,7 @@ This document details the internship projects undertaken, their objectives, and 
 
 Project 01:- Sales Data Analysis
 
-The primary goal of this project is to analyze sales data to uncover key patterns and trends that can inform business decisions. This involves exploring sales performance across different customer segments, regions, and product categories.
+Objective:- The primary goal of this project is to analyze sales data to uncover key patterns and trends that can inform business decisions. This involves exploring sales performance across different customer segments, regions, and product categories.
 
 Key Tasks:-
     Data Cleaning and Preprocessing: Handle missing values, format dates, and correct data inconsistencies.
