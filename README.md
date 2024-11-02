@@ -1,9 +1,10 @@
 This document details the internship projects undertaken, their objectives, and the analytical methods applied.
-Project 01: Sales Data Analysis
-Objective
 
-The primary goal of this project is to analyze sales data to uncover key patterns and trends that can inform business decisions. This involves exploring sales performance across different customer segments, regions, and product categories.
-Key Tasks
+Project 01 :- Sales Data Analysis
+
+Objective :-The primary goal of this project is to analyze sales data to uncover key patterns and trends that can inform business decisions. This involves exploring sales performance across different customer segments, regions, and product categories.
+
+Key Tasks:-
 
     Data Cleaning and Preprocessing: Handle missing values, format dates, and correct data inconsistencies.
     Exploratory Data Analysis (EDA): Visualize and summarize key metrics such as total sales, profit, and average discount across regions and product categories.
@@ -11,7 +12,7 @@ Key Tasks
     Profitability Analysis: Evaluate profit margins by category, sub-category, and customer segment.
     Shipping and Order Priority Insights: Analyze shipping costs and customer preferences for shipping modes and order priority levels.
 
-Tools and Techniques
+Tools and Techniques:-
 
     Python Libraries: Pandas, Matplotlib, Seaborn
     Data Visualization: Used to reveal patterns and key metrics
